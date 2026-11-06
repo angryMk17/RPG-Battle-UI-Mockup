@@ -9,7 +9,7 @@ So, the text system, I remember working on this. I made it so that instead of ju
 
 | = Added pause (spam it for longer dramatic pauses)
 
-* = Circles at the start of a paragraph
+'*' = Circles at the start of a paragraph
 
 \ = Slow text toggle (use it again to go back to normal speed, use for dramatic effect!)
 
