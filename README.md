@@ -10,7 +10,7 @@ So, the text system, I remember working on this. I made it so that instead of ju
 | = Added pause (spam it for longer dramatic pauses)
 
 * = Circles at the start of a paragraph
-* 
+
 \ = Slow text toggle (use it again to go back to normal speed, use for dramatic effect!)
 
 You can check out the source code and play it directly on the released Scratch project here: https://scratch.mit.edu/projects/1222139539/
